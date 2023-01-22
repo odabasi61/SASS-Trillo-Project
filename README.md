@@ -1,6 +1,6 @@
 # HTML-CSS-SCSS-Trillo-Project-Responsive
 
-This is a simple hotel room booking website
+This is a simple hotel room booking website. In this project i used my scss skills.
 
 https://odabasi61.github.io/Trillo-Project/
 
